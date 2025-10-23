@@ -63,7 +63,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: imasheshk/k8sbes104d:v1
+          image: geethakandepi/k8sbes104d:v1
           ports:
             - containerPort: 8080
           env:
